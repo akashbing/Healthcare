@@ -61,7 +61,5 @@ NOTE: 1. Prepare a very clear Presention with Flow Chart
       3. Complete code should be in a single shell script file
         Ex:  healthCarePoc.sh
 
-Thanks,
-Gopal
-Hadoop Architect           
+         
 
